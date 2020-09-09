@@ -3,7 +3,6 @@ Facts about me:
 - 🔭 I’m currently working on AutoSeg as a Trainee.
 - 🌱 I’m currently learning about TDD.
 - 💬 Ask me about anything except the reason of life.
-- 📫 How to reach me: moreira.mferreira@gmail.com.
 - ⚡ Fun fact: My betta fish and my girlfriend share the same name.
 
 <!--
