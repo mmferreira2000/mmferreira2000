@@ -3,7 +3,7 @@ Facts about me:
 - 🔭 I’m currently working on AutoSeg as a Trainee.
 - 🌱 I’m currently learning about TDD.
 - 💬 Ask me about anything except the reason of life.
-- ⚡ Fun fact: My betta fish and my girlfriend share the same name.
+- ⚡ Fun fact: My betta fish and my ex-girlfriend share the same name.
 
 <!--
 **mmferreira2000/mmferreira2000** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
