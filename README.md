@@ -1,6 +1,5 @@
 ### Hello, world! 👋
 Facts about me:
-- 🔭 I’m currently working on AutoSeg as a Trainee.
 - 🌱 I’m currently learning about TDD.
 - 💬 Ask me about anything except the reason of life.
 - ⚡ Fun fact: My betta fish and my ex-girlfriend share the same name.
