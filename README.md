@@ -1,9 +1,3 @@
-### Hello, world! 👋
-Facts about me:
-- 🌱 I’m currently learning: BDD
-- 💬 Ask me about: anything except the reason of life.
-- ⚡ Fun fact: I don't believe in lucky.
-
 ## Hi! I'm Matheus M. Ferreira 
  <div>
   <a href="https://github.com/mmferreira2000">
